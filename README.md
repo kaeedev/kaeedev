@@ -122,6 +122,6 @@
 
 <div align='center'>
 
-## <b>Thanks for your visiting my Github, please take a look at my proyects✨</b>
+## <b>Thank you for visiting my GitHub, please take a look at my proyects✨</b>
 
 </div>
