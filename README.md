@@ -38,7 +38,6 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Sass-%23D913D6?style=for-the-badge&logo=sass&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Bootstrap-%23920390?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![Static Badge](https://img.shields.io/badge/Typescript-%23249BE3?style=for-the-badge&logo=typescript&logoColor=white&logoSize=90px)
   ![Static Badge](https://img.shields.io/badge/Astro-%23B700E3?style=for-the-badge&logo=astro&logoColor=white)
@@ -49,8 +48,6 @@
 - **Back-End Development**:
   
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java%20-%23F5460C?style=for-the-badge&logo=java&logo)
-  ![Static Badge](https://img.shields.io/badge/Spring-%2341E157?style=for-the-badge&logo=spring&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Django-%23BB9F01?style=for-the-badge&logo=django&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Node.js-%2307A51C?style=for-the-badge&logo=node.js&logoColor=white)
 
